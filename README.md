@@ -1,2 +1,3 @@
-# Universal-Dynamics-
-It does what it says on the tin.
+# recursive-phase-solids
+
+<!-- Project documentation should be pasted here manually. -->
